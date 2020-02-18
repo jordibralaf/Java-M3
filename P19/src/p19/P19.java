@@ -1,4 +1,4 @@
-//Author: Jordi Brasó
+//Author: Jordi Brasó Lafuente
 package p19;
 
 import java.util.Scanner;
